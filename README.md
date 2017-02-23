@@ -9,7 +9,7 @@ Be sure to share your progress!(create links from the table below to the readme 
 
 #Test Challenges!
 *Complete in any order you like!*
-- [ ] Read a security blog
+- [x] Read a security blog
 - [ ] Select and read a book related to security testing.
 - [ ] Use a security tool - Examples:  ZAP or BurpSuite.
 - [ ] Learn anything about Vulnerability Scanning.
