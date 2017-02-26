@@ -25,7 +25,7 @@ Be sure to share your progress!(create links from the table below to the readme 
 - [ ] Develop a test plan including security tests.
 - [ ] Write and share ideas for security testing via twitter or a blog
 - [ ] Research how to build a Tiger Box.
-- [ ] Research a recent hack/security breach
+- [x] Research a recent hack/security breach
 - [ ] Learn about Security Headers.
 - [ ] Research Script Kiddies and/or packet monkeys.
 - [ ] Read about DOS/DDOS attacks. Share examples/stories via social media.
